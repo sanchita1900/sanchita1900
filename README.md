@@ -1,4 +1,4 @@
-### Hi there 👋, 'm Sanchita Gupta
+### Hi there 👋, I'm Sanchita Gupta
 ### A budding Full Stack developer from India
 
 
