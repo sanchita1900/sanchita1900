@@ -2,11 +2,7 @@
 ### A budding Full Stack developer from India
 
 
-- 🔭 I’m currently working on ... A MERN Stack project
-- 🌱 I’m currently learning ... Next.js, TypeScript
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... React
-- 📫 How to reach me: ... [sanchitahupta194@gmail.com]
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on A MERN Stack project
+- 🌱 I’m currently learning Next.js, TypeScript
+- 💬 Ask me about React
+- 📫 How to reach me: sanchitagupta194@gmail.com
